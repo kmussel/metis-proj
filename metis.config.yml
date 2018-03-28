@@ -1,0 +1,7 @@
+project_token: 7df3a8c32fc1fce5bb075569
+name: prodproj1
+jobs: 
+  - job_id: 859ef49c-16ec-46d9-9fac-6f72020cf998
+    language: python
+    name: Main
+    entrypoint: "main.py"
